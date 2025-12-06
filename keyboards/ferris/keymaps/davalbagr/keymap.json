@@ -74,7 +74,7 @@
       "KC_AMPR",
       "KC_BSLS",
       "KC_TAB",
-      "TG(2)",
+      "MO(2)",
       "KC_ENT",
       "KC_ESC"
     ],
@@ -110,9 +110,9 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_SPC",
-      "KC_BSPC",
+      "KC_TRNS",
       "KC_ENT",
-      "TG(0)"
+      "CW_TOGG"
     ],
     [
       "KC_TRNS",
